@@ -27,7 +27,7 @@ git clone https://github.com/sergioeloy/scrapper.git
 
 Navega al directorio del proyecto:
 ```bash
-cd scrapper-app
+cd scrapper
 ```
 
 Instala las dependencias:
