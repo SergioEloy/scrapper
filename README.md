@@ -22,7 +22,7 @@ Docker (opcional, si deseas contenerizar el proyecto)
 Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/scrapper-app.git
+git clone https://github.com/sergioeloy/scrapper.git
 ```
 
 Navega al directorio del proyecto:
